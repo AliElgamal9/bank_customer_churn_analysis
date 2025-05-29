@@ -3,7 +3,7 @@
 This project build bank power bi dashboard, and report analysis in french customers churn in a bank using inferential statistical analysis and data visualization.
 
 # *The Reposiotry Includes*
-  - Bank Power BI Dashboard (interactive link here)[https://app.powerbi.com/groups/me/reports/7e773a63-83e6-4a81-8fca-9f73088eb944/8a644c741098e0fe69d8?ctid=77255288-5298-4ea5-81aa-a13e604c30ac&pbi_source=shareVisual&visual=1f10641b7df9c87067c8&height=690.59&width=1088.44&bookmarkGuid=6d222fce-abf6-4322-a3dd-f694b328cd9e]
+  - Bank Power BI Dashboard [interactive link here](https://app.powerbi.com/groups/me/reports/7e773a63-83e6-4a81-8fca-9f73088eb944/8a644c741098e0fe69d8?ctid=77255288-5298-4ea5-81aa-a13e604c30ac&pbi_source=shareVisual&visual=1f10641b7df9c87067c8&height=690.59&width=1088.44&bookmarkGuid=6d222fce-abf6-4322-a3dd-f694b328cd9e)
   - R-language Codes
   - Analysis Report
   - Raw & Postprocessed Data
