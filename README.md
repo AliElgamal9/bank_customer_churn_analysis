@@ -6,7 +6,7 @@
 - Enable monitoring of the bank's current status, including balance and customer activity.
 - Assist the bank in identifying and preventing risks and critical financial declines.
 - Create a report analysis the french customers churn from the bank using inferential statistical analysis and data visualization.
-- 
+  
 # *The Reposiotry Includes*
   - Bank Power BI Dashboard [interactive link here](https://app.powerbi.com/links/dAuQ7ltUIw?ctid=77255288-5298-4ea5-81aa-a13e604c30ac&pbi_source=linkShare)
   - R-language Codes
